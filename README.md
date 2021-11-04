@@ -17,7 +17,7 @@ Tools ba Programner
 12) adobe color
 13) squoosh.app
 14) remove.bg
-15) codepen.io ->>>>>>>>>>>>>>>>>>>>>>>>> usa ba HTML Online ou Coding Oline
+15) codepen.io ->>>>>>>>>>>>>>>>>>>>>>>>> usa ba HTML Online ou Coding Online
 16)  jsfiddle.net
 17) pastebin
 18) devdocs
